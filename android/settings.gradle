@@ -1,0 +1,3 @@
+rootProject.name = 'greattimellc_1368'
+
+include ':app'
